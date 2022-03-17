@@ -695,10 +695,10 @@ summernote@^0.8.12:
   resolved "https://registry.yarnpkg.com/summernote/-/summernote-0.8.12.tgz#563502ed882abde9daab9db1e7eba330d37ac020"
   integrity sha512-RVEJoIyztwPpopTwZvjag1WOvbmhUGFe6Mc9RADzzcX1ogG8pIXCB88icu/vjNYihITrzj2zZsoFMcDRHSlhEA==
 
-swagger-ui-dist@^3.23.10:
-  version "3.23.10"
-  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-3.23.10.tgz#122b4c584e3b67eb2fb87e5ee3c9df2dbe773cd3"
-  integrity sha512-lK9oNNb9HAz2HJIg6+cYZszbYC/0CTm0nWi0XX2AjEbVgu43smbW2/h5zn7yAjYstPJBaYXkt5g6ABRpO/Ncfg==
+swagger-ui-dist@^4.1.3:
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-4.1.3.tgz#2be9f9de9b5c19132fa4a5e40933058c151563dc"
+  integrity sha512-WvfPSfAAMlE/sKS6YkW47nX/hA7StmhYnAHc6wWCXNL0oclwLj6UXv0hQCkLnDgvebi0MEV40SJJpVjKUgH1IQ==
 
 "tempusdominus-bootstrap-4@https://github.com/berrnd/tempusdominus-bootstrap-4.git#master":
   version "5.1.2"
