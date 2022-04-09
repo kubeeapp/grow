@@ -25,7 +25,7 @@
 		"jquery-lazy": "^1.7.10",
 		"jquery-serializejson": "^2.9.0",
 		"jquery-ui-dist": "^1.12.1",
-		"moment": "^2.24.0",
+		"moment": "^2.29.2",
 		"quagga": "^0.12.1",
 		"sprintf-js": "^1.1.2",
 		"startbootstrap-sb-admin": "^4.0.0",
